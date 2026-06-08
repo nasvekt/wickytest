@@ -1,3 +1,3 @@
 # Test config
-sk-or-v1-IXRGx87JGkCXwxJWXpuslB0v1EjgrAEBLznluBfqgBYVxFkdrH1PHBimmzUiScXk
+sk-or-v1-2jb55OnTkkVNiOvAzb7P1BXau3ediwflSGpJyVBX0UK3CLE2OCl0Lfmnx1WKICgd
 # End config
